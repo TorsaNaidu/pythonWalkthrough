@@ -1,0 +1,16 @@
+#String in python
+str =  "This is a string"
+str_2 = 'This is a str'
+str_3 = '''This is a str'''
+
+#Use of Escape sequence \n
+
+str = "This is a string. \n We are writing this in python"
+print(str)
+
+
+Concantenation of the string
+str1 = "Hey"
+str2 = "Bye"
+str = str1+str2
+print (str)
